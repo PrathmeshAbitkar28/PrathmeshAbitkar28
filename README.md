@@ -6,29 +6,25 @@ With a strong foundation in **data analytics**, I use tools like **Python**, **P
 
 ---
 
-### 🌐 Web Utility
-- 🖼️ [pngtojpg.io](https://pngtojpg.io)  
-  A fully browser-based image format converter — no backend, no server uploads. Built with **React** + **Tailwind CSS** for speed, privacy, and great UX.
-
----
 ## 🚀 Projects
 
-### 📈 Data Analytics & BI
-- 🧪 [Titanic Survival Analysis](https://github.com/PrathmeshAbitkar28/titanic-eda-survival-analysis)  
-  EDA with Python (Pandas, Seaborn) to uncover survival patterns.
+### 📊 Data Analytics & BI
+- 🧪 [Titanic Survival Analysis](https://github.com/PrathmeshAbitkar28/titanic-eda-survival-analysis) – EDA using Python to uncover survival trends.
+- 📈 [Tableau Dashboard – Global Superstore](https://github.com/PrathmeshAbitkar28/global-superstore-tableau-dashboard) – Sales & profit KPIs with interactive filters.
+- 🏢 [Deloitte Analytics Simulation] – Excel cleaning, Power BI dashboard, fraud risk insights.
 
-- 📊 [Global Superstore Tableau Dashboard](https://github.com/PrathmeshAbitkar28/global-superstore-tableau-dashboard)  
-  KPI dashboard in Tableau using sales & profit data.
-
-- 🏢 [Deloitte Virtual Internship (Analytics Simulation)] 
-  Procurement data cleaning, fraud risk analysis, Power BI reporting.
+### 🌐 Web Projects (MERN & React)
+- 🖼️ [pngtojpg.io](https://pngtojpg.io) – A **fully browser-based image converter** built with **React + Tailwind CSS**, no backend required.  
+- 🔧 [Coming Soon] – Full-stack MERN dashboard for data tracking and visualization.
 
 ---
 
 ## 🧰 Tech Stack
-`Python` `Pandas` `Tableau` `Power BI` `Excel`  
-`React.js` `Tailwind CSS` `JavaScript`  
-`Jupyter Notebook` `Git` `GitHub`
 
+### 🧪 Data Analytics
+`Python` `Pandas` `Matplotlib` `Seaborn` `Tableau` `Power BI` `Excel`
+
+### 💻 Web Development
+`MongoDB` `Express.js` `React.js` `Node.js` `JavaScript` `Tailwind CSS` `Git` `GitHub`
 
 ---
