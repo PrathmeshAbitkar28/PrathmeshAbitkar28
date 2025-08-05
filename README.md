@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Prathmesh</h1>
-<h3 align="center">A passionate Web developer ..</h3>
 
-- 🔭 I’m currently working on
+## 🚀 Projects
 
-- 🌱 I’m currently learning **MERN stack and React Native**
- 
+ ### 🌐 Web Utility
+- 🖼️ [pngtojpg.io](https://pngtojpg.io)  
+  A fully browser-based image format converter — no backend, no uploads. Built with **React** + **Tailwind CSS** for speed, privacy, and great UX.
+
+### 📈 Data Analytics & BI
+- 🧪 [Titanic Survival Analysis](https://github.com/PrathmeshAbitkar28/titanic-eda-survival-analysis)  
+  EDA with Python (Pandas, Seaborn) to uncover survival patterns.
+
+- 📊 [Global Superstore Tableau Dashboard](https://github.com/PrathmeshAbitkar28/global-superstore-tableau-dashboard)  
+  KPI dashboard in Tableau using sales & profit data.
+
+- 🏢 [Deloitte Virtual Internship (Analytics Simulation)] 
+  Procurement data cleaning, fraud risk analysis, Power BI reporting.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
