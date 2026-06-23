@@ -60,19 +60,7 @@
 | 🍽️ **Multi Language Scan Menu System** | Restaurant web app with bilingual menu, QR code scanner, page-turning animations & admin panel | React, Firebase, TypeScript |
 | 🏢 **Employee/project Management System** | Company management system with 13 departments, role-based access, and project tracking | React, Firestore, Firebase Auth |
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathmeshAbitkar28&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrathmeshAbitkar28&label=Profile+Views&color=6C63FF&style=flat" alt="Profile Views" />
-</p>
+--- 
 
 <p align="center">
   <i>⚡ "Code is not just syntax — it's a solution to a real problem."</i>
