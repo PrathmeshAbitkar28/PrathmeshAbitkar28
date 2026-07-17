@@ -41,14 +41,12 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshAbitkar28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshAbitkar28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshAbitkar28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshAbitkar28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrathmeshAbitkar28&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=PrathmeshAbitkar28&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
 ---
@@ -58,7 +56,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🍽️ **Multi Language Scan Menu System** | Restaurant web app with bilingual menu, QR code scanner, page-turning animations & admin panel | React, Firebase, TypeScript |
-| 🏢 **Employee/project Management System** | Company management system with 13 departments, role-based access, and project tracking | React, Firestore, Firebase Auth |
+| 🏢 **project Management Portal** | Company management system with 13 departments, role-based access, and project tracking | React, Firestore, Firebase Auth |
 
 --- 
 
