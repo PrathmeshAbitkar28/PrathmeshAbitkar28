@@ -39,14 +39,12 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
-
 | Project | Description | Tech |
 |--------|-------------|------|
+| 🪟 **Window & Glass Solutions Platform** | Premium glass/window architecture portfolio site with admin CMS for real-time content editing, image optimization & lead management | React, TypeScript, Firebase |
 | 🍽️ **Multi Language Scan Menu System** | Restaurant web app with bilingual menu, QR code scanner, page-turning animations & admin panel | React, Firebase, TypeScript |
-| 🏢 **project Management Portal** | Company management system with 13 departments, role-based access, and project tracking | React, Firestore, Firebase Auth |
-
+| 🏢 **Project Management Portal** | Company management system with 13 departments, role-based access, and project tracking | React, Firestore, Firebase Auth |
 --- 
 
 <p align="center">
