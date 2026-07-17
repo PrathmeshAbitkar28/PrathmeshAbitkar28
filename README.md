@@ -40,17 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshAbitkar28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshAbitkar28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrathmeshAbitkar28&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
